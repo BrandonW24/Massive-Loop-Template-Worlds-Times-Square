@@ -1,4 +1,4 @@
-# Massive-Loop-Template-Worlds-Times-Square
+# Massive Loop | Template Worlds : Times Square
 
 ![TimesSquarePreview](TimeSquare.gif)
 
