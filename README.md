@@ -29,6 +29,10 @@ Next, where you see the **"Active Targets"** section in your graph inspector, si
 
 Next, click on the **"BultIn (Unknown)"** Active target and remove it by pressing the minus button. Press **CTRL + S** on your keyboard and it should fix itself! If it does not reimport itself, right click on the shader and click **reimport**
 
+And there you have it! Times Square will be restored to its glory, all thanks to you and the handy Shadergraph toolset!
+
+![Shaders](Shaders.png)
+*(Looks like I missed a couple billboards!)*
 
 ## Setting Up Your Massive Loop World
 
