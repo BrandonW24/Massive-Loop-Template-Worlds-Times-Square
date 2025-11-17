@@ -17,6 +17,8 @@ Please Navigate to the package manager and ensure that the following two Unity p
 * Post Processing
 * ShaderGraphs
 
+Please also make sure that your editor is using the Built-In Renderer.
+
 ## Seeing Pink Textures? No worries!
 Sometimes, when exporting shadergraphs from the Unity Editor, shadergraphs can sometimes lose their active target locations. 
 
