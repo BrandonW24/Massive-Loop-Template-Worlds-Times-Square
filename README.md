@@ -11,3 +11,14 @@ It includes an AI-driven crowd system powered by NavMesh agents, a lightweight w
 
 For those interested in the vehicle system specifically, that project is available here:
 https://github.com/BrandonW24/Massive-Loop-CSharp-Car
+
+## Setting Up Your Massive Loop World
+
+Please ensure that you have the correct Unity Editor version that is compatible with our SDK. Currently, the Unity Editor version we recommend using is **Unity 2022.3.18f1**. This is subject to change.
+You will need our most up to date SDK version which can be found at the following link : 
+https://massiveloop.com/download/sdk/
+
+As well as our most up to date client, which can be downloaded at this following link : 
+https://massiveloop.com/download/browser/
+
+To get a jump start on the process of registering, creating, testing, and uploading a world to Massive Loop, please refer to our documentation : https://docs.massiveloop.com/docs/create/create_new/create_new_world.html
